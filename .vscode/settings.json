@@ -1,0 +1,13 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "code-runner.clearPreviousOutput": true,
+  "[python]": {
+    "editor.wordBasedSuggestions": true,
+    "editor.defaultFormatter": "himanoa.Python-autopep8"
+  },
+  "git.ignoreLimitWarning": true
+}
